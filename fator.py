@@ -16,6 +16,9 @@ for line in parq:
 def fator(num):
     v = 0
     f = []
+    if type(num)!=int:
+        print 'numero deve ser inteiro'
+        return []
     while num!=1:
         p = primos[v]
         x = num/p
