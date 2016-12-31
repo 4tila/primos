@@ -1,3 +1,14 @@
+"""
+printa uma lista de fatores primos para um dado numero
+ex.:
+        In [1]: import fator
+
+        In [2]: fator.fator(1256)
+        Out[2]: [2, 2, 2, 157]
+
+        In [3]: fator.primos[29]
+        Out[3]: 113
+"""
 primos = []
 parq = open("primo.txt",'r')
 for line in parq:
