@@ -1,5 +1,6 @@
 m = 2
 arq = open("primo.txt", 'r+')
+arq.write('2,1\n')
 def primo(num):
     v = False
     yn = ""
