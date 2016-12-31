@@ -1,4 +1,6 @@
 m = 2
+print 2
+print '     1'
 def primo(num):
     v = False
     yn = ""
@@ -32,4 +34,3 @@ while True:
         i+=1
     except KeyboardInterrupt:
         break
-        
