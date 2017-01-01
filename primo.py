@@ -21,7 +21,6 @@ def primo(num):
         yn = "n"
     return (yn, k)
 i = 3
-print "running..."
 while True:
     try:
         req = primo(i)
