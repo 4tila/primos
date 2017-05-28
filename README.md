@@ -1,3 +1,3 @@
 # primos
-ALgoritimos feito em python para printar e escrever no arquivo 
+Algoritimo feito em python para printar e escrever no arquivo 
 primo.txt os números primos.
